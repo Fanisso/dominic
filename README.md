@@ -1,4 +1,4 @@
 dominic
 =======
 
-Personal system to manege accounts expensive ands renus.
+management system of domestic economy.
